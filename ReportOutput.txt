@@ -1,0 +1,11 @@
+Simple Report:
+Monthly Report
+Sales increased by 20%.
+
+Fancy Report:
+**Monthly Report
+Sales increased by 20%.**
+
+Default Report:
+Monthly Report
+Sales increased by 20%.
